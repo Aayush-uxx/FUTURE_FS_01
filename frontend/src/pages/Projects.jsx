@@ -15,6 +15,7 @@ const projectsData = [
     image: "/images/crm.png",
     shortDesc:
       "Full-featured e-commerce platform with cart and payment integration",
+    demoCredential:"User:aayush@gmail.com Pass:aayush123 & Admin:ayush@gmail.com Pass:aayush123",
     longDesc:
       "Still in development phase A complete e-commerce solution built with MERN stack. Features include user authentication, product management, shopping cart, order tracking, payment gateway integration (Stripe), admin dashboard, and responsive design. Implemented JWT for secure authentication, Redux for state management, and MongoDB for data persistence.",
     techStack: [
@@ -34,7 +35,7 @@ const projectsData = [
       "Admin dashboard",
       "Product reviews & ratings",
     ],
-    liveDemo: "https://example.com/demo",
+    liveDemo: "https://ecommerce-frontend-git-main-aayush-s-projects13.vercel.app/",
     github: "https://github.com/Aayush-uxx/mern-ecommerce",
     challenges:
       "Implemented real-time inventory management and payment gateway integration.",
@@ -48,6 +49,7 @@ const projectsData = [
     image: "/images/crm.jpg",
     shortDesc:
       "A mini crm web application for managing the leads and notes of the customers ",
+    demoCredential:"Email: aayush@gmail.com Pass:aayush123",
     longDesc:
       "Use this dummy account for login :'aayush@gmail.com','aayush123'. This project is made in MERN stack and also used Typescript and TailwinCSs. This app helps in creating the leads and notes of the customers and check by the admin to change the satus into new contacted and converted. ",
     techStack: ["React.js", "Node.js", "Express.js", "MongoDB", "TailwindCSS"],
@@ -87,8 +89,9 @@ const projectsData = [
     category: "MERN",
     image: "/images/salon.JPG",
     shortDesc: "Modern Haircut website",
+    demoCredential:"User:aayush@gmail.com Pass:aayush123 & Admin:admin@gmail.com Pass:admin123",
     longDesc:
-      "use Test credential:'aayush@gmail.com','aayush123' for user and 'admin@gmail.com' 'admin123' accountThe objective of this system was to develop the booking system in haircut shop so people don't need to wait when visiting the shop. In traditional system people need to wait for their turn and need to visit early for queue.",
+      "The objective of this system was to develop the booking system in haircut shop so people don't need to wait when visiting the shop. In traditional system people need to wait for their turn and need to visit early for queue.",
     techStack: ["React.js", "CSS3", "Node.js", "Framer Motion","Next.js"],
     features: [
       "Dark/Light theme",
