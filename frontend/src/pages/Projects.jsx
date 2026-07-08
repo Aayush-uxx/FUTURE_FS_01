@@ -220,6 +220,12 @@ function Projects() {
               </div>
 
               <div className="modalFeatures">
+              <div>
+                <h3>Demo Credential</h3>
+                <p>
+                  <strong>Demo Credentials:</strong> {selectedProject.demoCredential}
+                </p>
+              </div>
                 <h3>Key Features</h3>
                 <ul>
                   {selectedProject.features.map((feature, idx) => (
